@@ -6,3 +6,7 @@ Infrastructure & Deployment:
 Immutable Infrastructure
 IaC (Infrastructure as Code) Scanning
 Configuration Drift
+Process & Compliance:
+CI/CD (Continuous Integration/Continuous Deployment)
+Compliance-as-Code
+Threat Modeling
